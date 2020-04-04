@@ -1,0 +1,76 @@
+﻿Group,Indicator,All COVID-19 Deaths (U07.1),Deaths from All Causes,Percent of Expected Deaths,All Pneumonia Deaths (J12.0-J18.9),Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)
+By week,Total Deaths,"1,150","446,778",0.86,"24,741",469
+By week,2/1/2020,0,"56,061",0.94,"2,991",0
+By week,2/8/2020,0,"56,209",0.94,"2,985",0
+By week,2/15/2020,0,"54,463",0.92,"2,863",0
+By week,2/22/2020,0,"54,017",0.93,"2,833",0
+By week,2/29/2020,5,"53,697",0.93,"2,831",2
+By week,3/7/2020,16,"52,506",0.91,"2,826",5
+By week,3/14/2020,41,"48,577",0.85,"2,730",17
+By week,3/21/2020,300,"42,750",0.74,"2,642",121
+By week,3/28/2020,788,"28,498",0.5,"2,040",324
+By age,All ages,"1,150","446,778",0.86,"24,741",469
+By age,Under 1 year,0,"2,396",0.63,19,0
+By age,1-4 years,1,489,0.74,23,1
+By age,5-14 years,0,713,0.71,26,0
+By age,15-24 years,0,"4,036",0.78,73,0
+By age,25-34 years,8,"8,424",0.83,189,3
+By age,35-44 years,33,"12,076",0.85,388,8
+By age,45-54 years,75,"23,299",0.77,983,26
+By age,55-64 years,123,"56,398",0.83,"2,824",50
+By age,65-74 years,265,"87,567",0.88,"4,778",91
+By age,75-84 years,331,"110,592",0.88,"6,590",145
+By age,85 years and over,314,"140,788",0.84,"8,848",145
+By state,Total US,"1,150","446,778",0.86,"24,741",469
+By state,Alabama,0,"8,136",0.85,408,0
+By state,Alaska,0,589,0.78,23,0
+By state,Arizona,0,"10,532",0.96,523,0
+By state,Arkansas,0,"5,390",0.92,269,0
+By state,California,54,"47,024",0.93,"3,136",22
+By state,Colorado,21,"7,020",0.98,334,11
+By state,Connecticut,0,0,0,0,0
+By state,Delaware,0,"1,115",0.65,50,0
+By state,District of Columbia,0,924,0.84,58,0
+By state,Florida,38,"37,346",0.97,"1,899",12
+By state,Georgia,13,"12,725",0.83,570,6
+By state,Hawaii,0,"1,904",0.9,118,0
+By state,Idaho,1,"2,389",0.93,110,1
+By state,Illinois,9,"18,762",0.96,"1,155",4
+By state,Indiana,0,"10,635",0.87,599,0
+By state,Iowa,0,"5,007",0.9,295,0
+By state,Kansas,3,"4,441",0.89,240,1
+By state,Kentucky,0,"6,181",0.7,389,0
+By state,Louisiana,44,"6,801",0.82,258,18
+By state,Maine,0,"2,640",0.99,178,0
+By state,Maryland,5,"8,721",0.95,502,0
+By state,Massachusetts,6,"9,893",0.89,663,3
+By state,Michigan,11,"16,019",0.9,796,1
+By state,Minnesota,4,"7,613",0.95,407,2
+By state,Mississippi,0,"5,302",0.92,342,0
+By state,Missouri,6,"10,051",0.84,486,4
+By state,Montana,0,"1,491",0.79,66,0
+By state,Nebraska,0,"2,476",0.79,159,0
+By state,Nevada,2,"4,348",0.93,202,1
+By state,New Hampshire,1,"2,200",0.98,109,0
+By state,New Jersey,43,"13,210",0.96,694,24
+By state,New Mexico,0,"2,765",0.79,155,0
+By state,New York,180,"17,731",0.96,"1,343",98
+By state,New York City,579,"10,970",1.1,"1,012",205
+By state,North Carolina,0,"3,060",0.18,151,0
+By state,North Dakota,0,"1,115",0.89,74,0
+By state,Ohio,0,"16,962",0.75,676,0
+By state,Oklahoma,0,"5,781",0.78,365,0
+By state,Oregon,5,"5,496",0.83,230,3
+By state,Pennsylvania,19,"17,692",0.7,880,10
+By state,Rhode Island,0,"1,494",0.78,50,0
+By state,South Carolina,1,"8,428",0.94,369,0
+By state,South Dakota,1,"1,281",0.86,70,0
+By state,Tennessee,0,"12,379",0.92,715,0
+By state,Texas,6,"32,459",0.84,"1,825",2
+By state,Utah,1,"3,305",0.97,168,0
+By state,Vermont,1,923,0.87,42,1
+By state,Virginia,4,"11,757",0.94,459,1
+By state,Washington,92,"9,805",0.93,561,39
+By state,West Virginia,0,"2,563",0.62,140,0
+By state,Wisconsin,0,"9,200",0.96,376,0
+By state,Wyoming,0,727,0.89,42,0
