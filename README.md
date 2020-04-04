@@ -1,11 +1,13 @@
 # covid
 COVID data tracking sandbox
 
-data source <Provisional_Death_Counts_for_Coronavirus_Disease__COVID-19_.csv> is from https://github.com/nytimes/covid-19-data
+data source `Provisional_Death_Counts_for_Coronavirus_Disease__COVID-19_.csv` is from [https://github.com/nytimes/covid-19-data](https://github.com/nytimes/covid-19-data)
 
 
 Purpose: playing around with COVID data.
+
 Current goal: create a graph of COVID cases in California by date.
+
 Next goal: compare COVID cases in California to an area around the world that's seeing a decline in cases (South Korea?). Attempt to predict California's peak and plateau.
 
 Considerations: 
