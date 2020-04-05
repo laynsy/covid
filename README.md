@@ -11,7 +11,7 @@ Data source `Provisional_Death_Counts_for_Coronavirus_Disease__COVID-19_.csv` is
 - [current] Attempt to predict California's peak and plateau.
 - [completed 2020-04-04] Create a graph of COVID cases in California by date.
 
-![Graph of COVID-19 cases and deaths in California](https://github.com/laynsy/covid/blob/master/covid-19-CA-cases.png "COVID-19 cases and deaths in California")
+![Graph of COVID-19 cases and deaths in California](https://github.com/laynsy/covid/blob/master/covid-19-CA-cases.png?raw=true "COVID-19 cases and deaths in California")
 
 
 ## Considerations: 
