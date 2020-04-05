@@ -14,7 +14,7 @@ Data source `Provisional_Death_Counts_for_Coronavirus_Disease__COVID-19_.csv` is
 ![Graph of COVID-19 cases and deaths in California](https://github.com/laynsy/covid/blob/master/covid-19-CA-cases.png "COVID-19 cases and deaths in California")
 
 
-##Considerations: 
+## Considerations: 
 1. can you accurately compare two different geographic regions? e.g. are CA and South Korea comparable given population density, area, urban vs rural, etc.
 2. May want to include all West Coast states
 3. May want to look at USA vs other countries
